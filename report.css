@@ -1,0 +1,12 @@
+//modificiations to fonts and font size
+
+header {
+	color: #AAA9AD;
+	text-shadow: 2px 2px 4px black;
+	font-size: 40PX;
+}
+p {
+	color: #87CEEB;
+	font-family: verdana;
+	font-size: 15px;
+}
